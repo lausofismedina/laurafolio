@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://lausofismedina.github.io/laurafolio/build",
+  "homepage": "https://lausofismedina.github.io/laurafolio/dist",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "parcel": "^2.7.0",
